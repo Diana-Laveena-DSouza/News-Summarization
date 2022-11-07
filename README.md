@@ -12,4 +12,4 @@ On its own - writing a news piece is not a big deal. But there is a lot of stuff
 
 # ⏳ Dataset
 _________________________________________________________________________________________________________________________________________________________________________
-The Cornell data is available in two forms: the complete text data and a list of Archive.org URLs to scrape. Downloading the complete data requires accepting the data licensing terms. Please submit the form here. Shotly after filling the form and agreeing to the license you will receive a download link to the email you provided. The download includes the complete training, development, and released test data splits. You can also scrape the data yourself using Archive.org URLs ("thin dataset") and the data builder scripts available on Github.
+https://drive.google.com/file/d/1IUHQzWd3qEQIS-KI7piPVkAzYNx7igmS/view?usp=sharing
