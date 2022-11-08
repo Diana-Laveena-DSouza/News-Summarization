@@ -12,4 +12,4 @@ On its own - writing a news piece is not a big deal. But there is a lot of stuff
 
 # ⏳ Dataset
 _________________________________________________________________________________________________________________________________________________________________________
-https://drive.google.com/file/d/1IUHQzWd3qEQIS-KI7piPVkAzYNx7igmS/view?usp=sharing
+https://drive.google.com/drive/folders/1xABPf6VlzYklDBtmLVj9HcJ4SplaennL?usp=sharing
