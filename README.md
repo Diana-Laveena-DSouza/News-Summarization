@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 • https://drive.google.com/drive/folders/1xABPf6VlzYklDBtmLVj9HcJ4SplaennL?usp=sharing
 
-🏽‍ Download the Model
+# 🏽‍ Download the Model
 ________________________________________________________________________________________________________________________________________________________________________
 • Download the t5-base model file from following Drive Link
 
